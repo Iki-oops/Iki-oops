@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/03/c9/54/03c954dbd93d79b20a10d0b1347e18fe.gif">
+<img align="center" src="https://i.pinimg.com/originals/03/c9/54/03c954dbd93d79b20a10d0b1347e18fe.gif">
 <h1 align="center">Hi 👋, I'm Dima Bambagaev</h1>
 <h3 align="center">Back-end and Front-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8c/2f/41/8c2f41c1192eacc70ee8926ba8c6599c.gif">
